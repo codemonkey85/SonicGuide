@@ -51,6 +51,106 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Spring Yard Zone",
+          "order": 3,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2
+            },
+            {
+              "name": "Act 3",
+              "order": 3,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Labyrinth Zone",
+          "order": 4,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2
+            },
+            {
+              "name": "Act 3",
+              "order": 3,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Star Light Zone",
+          "order": 5,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2
+            },
+            {
+              "name": "Act 3",
+              "order": 3,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Scrap Brain Zone",
+          "order": 6,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2
+            },
+            {
+              "name": "Act 3",
+              "order": 3
+            }
+          ]
+        },
+        {
+          "name": "Final Zone",
+          "order": 7,
+          "bosses": [
+            {
+              "name": "Robotnik",
+              "order": 1
+            }
+          ]
         }
       ]
     },
@@ -95,6 +195,170 @@
                   "order": 1
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Aquatic Ruin Zone",
+          "order": 3,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Casino Night Zone",
+          "order": 4,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hill Top Zone",
+          "order": 5,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mystic Cave Zone",
+          "order": 6,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oil Ocean Zone",
+          "order": 7,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Metropolis Zone",
+          "order": 8,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2
+            },
+            {
+              "name": "Act 3",
+              "order": 3,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sky Chase Zone",
+          "order": 9,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "name": "Wing Fortress Zone",
+          "order": 10,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Death Egg Zone",
+          "order": 11,
+          "bosses": [
+            {
+              "name": "Metal Sonic",
+              "order": 1
+            },
+            {
+              "name": "Robotnik",
+              "order": 2
             }
           ]
         }
@@ -155,6 +419,118 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Marble Garden Zone",
+          "order": 3,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Carnival Night Zone",
+          "order": 4,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Icecap Zone",
+          "order": 5,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Launch Base Zone",
+          "order": 6,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                },
+                {
+                  "name": "Robotnik",
+                  "order": 2
+                },
+                {
+                  "name": "Robotnik",
+                  "order": 3
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -211,6 +587,130 @@
                   "order": 1
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Sandopolis Zone",
+          "order": 3,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lava Reef Zone",
+          "order": 4,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hidden Palace Zone",
+          "order": 5,
+          "bosses": [
+            {
+              "name": "Knuckles",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "name": "Sky Sanctuary Zone",
+          "order": 6,
+          "bosses": [
+            {
+              "name": "Eggrobo",
+              "order": 1
+            },
+            {
+              "name": "Eggrobo",
+              "order": 2
+            },
+            {
+              "name": "Eggrobo",
+              "order": 3
+            },
+            {
+              "name": "Mecha Sonic",
+              "order": 4
+            }
+          ]
+        },
+        {
+          "name": "Death Egg Zone",
+          "order": 7,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                },
+                {
+                  "name": "Robotnik",
+                  "order": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Doomsday Zone",
+          "order": 8,
+          "bosses": [
+            {
+              "name": "Robotnik",
+              "order": 1
             }
           ]
         }
