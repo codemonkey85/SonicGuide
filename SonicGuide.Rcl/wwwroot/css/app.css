@@ -59,3 +59,24 @@
     .loading-progress-text:after {
         content: var(--blazor-load-percentage-text, "Loading");
     }
+
+.game-div {
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.zone-div {
+    border: 2px solid blue;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.act-div {
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+}

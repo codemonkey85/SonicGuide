@@ -1,13 +1,15 @@
 ﻿@if (Zone is not null)
 {
-    <h1>@Zone.name</h1>
-    <h2>@Zone.order</h2>
+    <div class="zone-div">
+        <h1>@Zone.name</h1>
+        <h2>@Zone.order</h2>
 
-    @if (Zone.acts is not null)
-    {
-        @foreach (var act in Zone.acts)
+        @if (Zone.acts is not null)
         {
-            <ActComponent Act="act" />
+            @foreach (var act in Zone.acts)
+            {
+                <ActComponent Act="act" />
+            }
         }
-    }
+    </div>
 }

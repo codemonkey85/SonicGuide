@@ -1,14 +1,16 @@
 ﻿@if (Game is not null)
 {
-    <h1>@Game.name</h1>
-    <h2>@Game.order</h2>
+    <div class="game-div">
+        <h1>@Game.name</h1>
+        <h2>@Game.order</h2>
 
-    @if (Game.zones is not null)
-    {
-        @foreach (var zone in Game.zones)
+        @if (Game.zones is not null)
         {
-            <ZoneComponent Zone="zone" />
-        }
+            @foreach (var zone in Game.zones)
+            {
+                <ZoneComponent Zone="zone" />
+            }
 
-    }
+        }
+    </div>
 }
