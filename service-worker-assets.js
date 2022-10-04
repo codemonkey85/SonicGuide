@@ -17,7 +17,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-XZTQQ2oYeCASdAKLMHRLmOh9gvQV+8QtOPkVhOgh3Ic=",
+      "hash": "sha256-jYH56HvVr8nHwlTP3DJZWmt\/nscTCxFDSjPSCesLCe4=",
       "url": "manifest.json"
     },
     {
@@ -205,5 +205,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "6mc6iA0I"
+  "version": "mbqQawsz"
 };
