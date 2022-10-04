@@ -771,6 +771,292 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Studiopolis Zone",
+          "order": 3,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Flying Battery Zone",
+          "order": 4,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Press Garden Zone",
+          "order": 5,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stardust Speedway Zone",
+          "order": 6,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Hotaru Hi-Watt",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Metal Sonic",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hydrocity Zone",
+          "order": 7,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Dive Eggman",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Laundro Mobile",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mirage Saloon Zone",
+          "order": 8,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Uber Caterkiller",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Heavy Magician",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oil Ocean Zone",
+          "order": 9,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Meter Droid",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Mega Octus",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lava Reef Zone",
+          "order": 10,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Drillerdroid",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Metallic Madness Zone",
+          "order": 11,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Titanic Monarch Zone",
+          "order": 12,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egg Reverie Zone",
+          "order": 13,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
+            }
+          ]
         }
       ]
     }
