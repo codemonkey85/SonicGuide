@@ -1,0 +1,198 @@
+{
+  "games": [
+    {
+      "name": "Sonic The Hedgehog",
+      "order": 1,
+      "zones": [
+        {
+          "name": "Green Hill Zone",
+          "order": 1,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2
+            },
+            {
+              "name": "Act 3",
+              "order": 3,
+              "boss": "Robotnik"
+            }
+          ]
+        },
+        {
+          "name": "Marble Zone",
+          "order": 2,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2
+            },
+            {
+              "name": "Act 3",
+              "order": 3,
+              "boss": "Robotnik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sonic The Hedgehog 2",
+      "order": 2,
+      "zones": [
+        {
+          "name": "Emerald Hill Zone",
+          "order": 1,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "boss": "Robotnik"
+            }
+          ]
+        },
+        {
+          "name": "Chemical Plant Zone",
+          "order": 2,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "boss": "Robotnik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sonic The Hedgehog 3",
+      "order": 3,
+      "zones": [
+        {
+          "name": "Angel Island Zone",
+          "order": 1,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "boss": "Robotnik"
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "boss": "Robotnik"
+            }
+          ]
+        },
+        {
+          "name": "Hydrocity Zone",
+          "order": 2,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "boss": "Robotnik"
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "boss": "Robotnik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sonic & Knuckles",
+      "order": 4,
+      "zones": [
+        {
+          "name": "Mushroom Hill Zone",
+          "order": 1,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "boss": "Robotnik"
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "boss": "Robotnik"
+            }
+          ]
+        },
+        {
+          "name": "Flying Battery Zone",
+          "order": 2,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "boss": "Robotnik"
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "boss": "Robotnik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sonic Mania",
+      "order": 5,
+      "zones": [
+        {
+          "name": "Green Hill Zone",
+          "order": 1,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "boss": "Robotnik"
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "boss": "Robotnik"
+            }
+          ]
+        },
+        {
+          "name": "Chemical Plant Zone",
+          "order": 2,
+          "acts": [
+            {
+              "name": "Act 1",
+              "order": 1,
+              "boss": "Robotnik"
+            },
+            {
+              "name": "Act 2",
+              "order": 2,
+              "boss": "Robotnik"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

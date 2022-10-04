@@ -49,11 +49,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-XIMw6764ZxHRBEEB1zUvRvwudvHizbh3gk\/0nIuEf90=",
+      "hash": "sha256-wknHgqYt8JtT16Z8LROEMOJXR8JUPxFNsdt2V5mzUjs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-lM+ESs0if2\/YWGhWcU+WyclHShNBu\/vYdHbVv1RbXeM=",
+      "hash": "sha256-bWJ3AnuJrBRVgUuob4imxEPK8T+d3gbosexEwGPu1iY=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -77,7 +77,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "hash": "sha256-4fu3s+6GoAjLza6uYa0Zuq849HGVw5InQLddbyZ1YJc=",
+      "hash": "sha256-2MmRQZ8\/t6qMgMt4MQ7Chpk3SmUb9\/0YANm8BsRunJ8=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
@@ -109,15 +109,15 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-KrwsJFuFDSpWC3o2z0UL3voS881zm15TevyLcKY1h1I=",
+      "hash": "sha256-jJgf4PaEAdkr+GgRqWsq+BAk6Jj9dqwITIaSuGCPKOM=",
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-EMUYXuuCAfiWW26n\/B8s0etVkMXFRllgGBfLPpS+rUQ=",
+      "hash": "sha256-8yDv8thLiaOlg9dkntw6FWJjBlgw9A9KiwL1bM576SA=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
-      "hash": "sha256-z0RxhdtY7kJZrbGzwZ43d92+atGOPLuWuexJjuXyRlg=",
+      "hash": "sha256-i8WgrzaNZMquq6JQWdOwMfU+FO0CqknyR7vG5OIW3q8=",
       "url": "_framework\/SonicGuide.Wasm.dll"
     },
     {
@@ -125,7 +125,7 @@
       "url": "_framework\/System.Collections.Concurrent.dll"
     },
     {
-      "hash": "sha256-dTI+0JROx7c+szASUjesUnjd\/K0XF+RMHgc0bXnU6ws=",
+      "hash": "sha256-XL4sJG53DpZbVrDC4oSBZ8rxBziZAM8b2uvYHhrl2jI=",
       "url": "_framework\/System.Collections.dll"
     },
     {
@@ -145,23 +145,27 @@
       "url": "_framework\/System.Memory.dll"
     },
     {
-      "hash": "sha256-KdFBI+uh1qXGTc9QqbAtXldMDOU4UV930BB6tw1Bh3g=",
+      "hash": "sha256-w7NZg8vr1ILlwpqZvJPPtppT9+HnPNAuwGeNchUrnpk=",
       "url": "_framework\/System.Net.Http.dll"
     },
     {
-      "hash": "sha256-geXKeaIM9FPnOqY+gR\/S5d6rgCINg2h2BwSH4CUCi1I=",
+      "hash": "sha256-WFOj6mSqX1heRPRhGi1KqdK+tHiwpu6kUW\/wM90Dt6k=",
+      "url": "_framework\/System.Net.Http.Json.dll"
+    },
+    {
+      "hash": "sha256-a95FLcVt8kJwdNO+pVRVypZazS5zBRSaSOubnZ6BdGw=",
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-iPidks46MUayREHvgKaaWABWEmjMq50T\/ZT3pZRHnsE=",
+      "hash": "sha256-JSUQN5SaDcqAmspmglzdQ5C6vrj\/ZMC7+5JzxBKcJnA=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-WGRO\/M62Ac9YKLJqwoRgPxLx781lgY+w4MQE9eENImg=",
+      "hash": "sha256-yKa8BzQlmLeZUOAncWoqxan2nQLv2K\/EWOUrjcVY+ME=",
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-a23BOatRICoJrPnUJQUAPgawCtdigbL9UpTp8FDy1U4=",
+      "hash": "sha256-\/eGUqkqheKr9ZwGa39IFsQCiFV3h+BVXvQ0Lg6Lf2dU=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -169,7 +173,7 @@
       "url": "_framework\/System.Runtime.InteropServices.dll"
     },
     {
-      "hash": "sha256-uKynd53xhFbt12yOOnvRYAFaNdNHQlXtYztT5bLPgbI=",
+      "hash": "sha256-xrLsuIE7EDehn1IiW1TnRBjLY2\/q6jlIei24t6zOLZw=",
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.dll"
     },
     {
@@ -177,7 +181,7 @@
       "url": "_framework\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-bZ+s\/5FEAK0Oyu2EmD6YtXYOLHiCM2Fjn5RSvQR7K4g=",
+      "hash": "sha256-ExbI5qjBwtLW8BlsUXfg\/8eHGyBMh2oNn8J1cAx3K\/Q=",
       "url": "_framework\/System.Text.Json.dll"
     },
     {
@@ -201,9 +205,13 @@
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
+      "hash": "sha256-52xwm7J+Dss7pHzoQalGHVJLAcMj1bXs3w438HkEALc=",
+      "url": "_content\/SonicGuide.Rcl\/data\/gamedata.json"
+    },
+    {
       "hash": "sha256-xNc8r2MMe+s7zP+L86KOzeechvqxoDh9OUYQyJCW\/Mw=",
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "BGUM1C93"
+  "version": "QuetgHJL"
 };
