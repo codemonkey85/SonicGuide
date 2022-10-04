@@ -49,7 +49,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-cyc8LGgczl4AcisXQyCcIUgAyMuqd7Hnx\/0s4MjIXpY=",
+      "hash": "sha256-1K9gRVtDJBBbsw\/GqF1ppzkVx1HoIYQO4OlWhTWM4nM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -109,15 +109,15 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-jJgf4PaEAdkr+GgRqWsq+BAk6Jj9dqwITIaSuGCPKOM=",
+      "hash": "sha256-dCyVxuxAP5Z6yQb+auBguZTP1n1mZjLSXEYL9INJz7Q=",
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-of\/ye+GurJbDoNyiZcEuZaiCsWL3GCJwGNFDVqPw\/iY=",
+      "hash": "sha256-1NjsXtKTIEj\/1KEWpNN\/YugC05Z2t0BUkvjViL\/Soeg=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
-      "hash": "sha256-i8WgrzaNZMquq6JQWdOwMfU+FO0CqknyR7vG5OIW3q8=",
+      "hash": "sha256-QpRP2nuExMkjAnacYdbD4EwsT3XtP4BEZ9u+GYr4LWw=",
       "url": "_framework\/SonicGuide.Wasm.dll"
     },
     {
@@ -201,11 +201,11 @@
       "url": "_framework\/System.Transactions.Local.dll"
     },
     {
-      "hash": "sha256-gA8ypS3M13TDNPhDyoLdcxdYv6M6a5+SyU08tK9+xRc=",
+      "hash": "sha256-9xA4OsyPgV6bO\/XDeWqBgI1nEnzTjmmGxMx+zIPoKiQ=",
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
-      "hash": "sha256-52xwm7J+Dss7pHzoQalGHVJLAcMj1bXs3w438HkEALc=",
+      "hash": "sha256-VzXVyVoggWg7h5G7LqJLtH9KJ4n7SPF8TSCvvsdWrZ0=",
       "url": "_content\/SonicGuide.Rcl\/data\/gamedata.json"
     },
     {
@@ -213,5 +213,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "\/DBlyIxh"
+  "version": "lXgq\/4fj"
 };

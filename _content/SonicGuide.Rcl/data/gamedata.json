@@ -19,7 +19,12 @@
             {
               "name": "Act 3",
               "order": 3,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         },
@@ -38,7 +43,12 @@
             {
               "name": "Act 3",
               "order": 3,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         }
@@ -59,7 +69,12 @@
             {
               "name": "Act 2",
               "order": 2,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         },
@@ -74,7 +89,12 @@
             {
               "name": "Act 2",
               "order": 2,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         }
@@ -91,12 +111,22 @@
             {
               "name": "Act 1",
               "order": 1,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             },
             {
               "name": "Act 2",
               "order": 2,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         },
@@ -107,12 +137,22 @@
             {
               "name": "Act 1",
               "order": 1,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             },
             {
               "name": "Act 2",
               "order": 2,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         }
@@ -129,12 +169,22 @@
             {
               "name": "Act 1",
               "order": 1,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             },
             {
               "name": "Act 2",
               "order": 2,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         },
@@ -145,12 +195,22 @@
             {
               "name": "Act 1",
               "order": 1,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             },
             {
               "name": "Act 2",
               "order": 2,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         }
@@ -167,12 +227,22 @@
             {
               "name": "Act 1",
               "order": 1,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             },
             {
               "name": "Act 2",
               "order": 2,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         },
@@ -183,12 +253,22 @@
             {
               "name": "Act 1",
               "order": 1,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             },
             {
               "name": "Act 2",
               "order": 2,
-              "boss": "Robotnik"
+              "bosses": [
+                {
+                  "name": "Robotnik",
+                  "order": 1
+                }
+              ]
             }
           ]
         }

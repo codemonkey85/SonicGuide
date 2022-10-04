@@ -75,8 +75,15 @@
 }
 
 .act-div {
-    border: 2px solid red;
+    border: 2px solid orange;
     border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.boss-div {
+    border: 2px solid red;
+    border-radius: 15px;
     padding: 5px;
     margin: 5px;
 }
