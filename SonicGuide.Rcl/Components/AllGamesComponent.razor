@@ -1,0 +1,7 @@
+﻿@if (GameData?.games is not null)
+{
+    @foreach (var game in GameData.games)
+    {
+        <GameComponent Game="game" />
+    }
+}

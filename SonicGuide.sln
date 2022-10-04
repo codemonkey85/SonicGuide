@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SonicGuide.Wasm", "SonicGui
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SonicGuide.Rcl", "SonicGuide.Rcl\SonicGuide.Rcl.csproj", "{3F36041D-8E48-46B0-A68A-991FDC860BA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonicGuide.Domain", "SonicGuide.Domain\SonicGuide.Domain.csproj", "{1843A55B-229C-4ED9-ABCB-BC0C3FA99933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SonicGuide.Domain", "SonicGuide.Domain\SonicGuide.Domain.csproj", "{1843A55B-229C-4ED9-ABCB-BC0C3FA99933}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
