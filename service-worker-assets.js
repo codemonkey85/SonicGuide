@@ -1,10 +1,6 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-VmDG7pO7vj2bJqaBkoFoBIZRD1okT2Zfaz+IrnELEt8=",
-      "url": "css\/app.css"
-    },
-    {
       "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "url": "favicon.ico"
     },
@@ -13,7 +9,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-Offus7s9iTrhj3tzEL9w70pkouAUbFsJ0J+DuWKc8Sc=",
+      "hash": "sha256-xNw8X3tJFpozDqjyn8G+vcJ1187tnNcKNfNy2Db1TCY=",
       "url": "index.html"
     },
     {
@@ -201,9 +197,13 @@
       "url": "_framework\/System.Transactions.Local.dll"
     },
     {
+      "hash": "sha256-Si7KXDyE\/FhLSzzFQ7fARSntYGvXDo4tpT6nujyC9ZY=",
+      "url": "_content\/SonicGuide.Rcl\/css\/app.css"
+    },
+    {
       "hash": "sha256-xNc8r2MMe+s7zP+L86KOzeechvqxoDh9OUYQyJCW\/Mw=",
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "mbqQawsz"
+  "version": "YZn83RlI"
 };
