@@ -29,5 +29,12 @@ public class Act
 
     public int? order { get; set; }
 
-    public string? boss { get; set; }
+    public Boss[]? bosses { get; set; }
+}
+
+public class Boss
+{
+    public string? name { get; set; }
+
+    public int? order { get; set; }
 }

@@ -17,7 +17,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\SonicGuide.Domain\SonicGuide.Domain.csproj" />
+		<ProjectReference Include="..\SonicGuide.Domain\SonicGuide.Domain.csproj" />
 	</ItemGroup>
 
 </Project>

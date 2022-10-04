@@ -3,6 +3,13 @@
     <div class="act-div">
         <h1>@Act.name</h1>
         <h2>@Act.order</h2>
-        <h3>@Act?.boss</h3>
+
+        @if (Act?.bosses is not null)
+        {
+            @foreach (var boss in Act.bosses)
+            {
+                <BossComponent Boss="boss" />
+            }
+        }
     </div>
 }
