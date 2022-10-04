@@ -21,6 +21,8 @@ public class Zone
     public int? order { get; set; }
 
     public Act[]? acts { get; set; }
+
+    public Boss[]? bosses { get; set; }
 }
 
 public class Act

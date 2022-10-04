@@ -11,5 +11,13 @@
                 <ActComponent Act="act" />
             }
         }
+
+        @if (Zone.bosses is not null)
+        {
+            @foreach (var boss in Zone.bosses)
+            {
+                <BossComponent Boss="boss" />
+            }
+        }
     </div>
 }
