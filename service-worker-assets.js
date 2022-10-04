@@ -9,7 +9,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-xNw8X3tJFpozDqjyn8G+vcJ1187tnNcKNfNy2Db1TCY=",
+      "hash": "sha256-BTXChUXSNEEe97O\/NG3wqyPav9aeJ72H5EaO8D1tIIA=",
       "url": "index.html"
     },
     {
@@ -205,5 +205,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "YZn83RlI"
+  "version": "rwpt54Ub"
 };
