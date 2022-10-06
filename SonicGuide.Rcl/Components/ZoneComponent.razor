@@ -1,7 +1,12 @@
 ﻿@if (Zone is not null)
 {
     <div class="zone-div">
-        <h1><button class="btn btn-secondary" @onclick=SpeakZoneName>@Zone.Name</button></h1>
+        <h1>
+            <button class="btn btn-secondary"
+                @onclick=SpeakZoneName>
+                @Zone.Name
+            </button>
+        </h1>
         <h2>@Zone.Order</h2>
         @if (!string.IsNullOrEmpty(Zone.Image))
         {
@@ -12,7 +17,9 @@
         {
             @foreach (var act in Zone.Acts)
             {
-                <ActComponent Game="Game" Zone="Zone" Act="act" />
+                <ActComponent Game="Game"
+                  Zone="Zone"
+                  Act="act" />
             }
         }
 
@@ -20,7 +27,10 @@
         {
             @foreach (var boss in Zone.Bosses)
             {
-                <BossComponent Game="Game" Zone="Zone" Act="null" Boss="boss" />
+                <BossComponent Game="Game"
+                   Zone="Zone"
+                   Act="null"
+                   Boss="boss" />
             }
         }
     </div>

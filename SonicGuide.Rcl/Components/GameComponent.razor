@@ -1,7 +1,12 @@
 ﻿@if (Game is not null)
 {
     <div class="game-div">
-        <h1><button class="btn btn-secondary" @onclick=SpeakGameName>@Game.Name</button></h1>
+        <h1>
+            <button class="btn btn-secondary"
+                @onclick=SpeakGameName>
+                @Game.Name
+            </button>
+        </h1>
         <h2>@Game.Order</h2>
         @if (!string.IsNullOrEmpty(Game.Image))
         {
@@ -12,7 +17,8 @@
         {
             @foreach (var zone in Game.Zones)
             {
-                <ZoneComponent Game="Game" Zone="zone" />
+                <ZoneComponent Game="Game"
+                   Zone="zone" />
             }
         }
     </div>
