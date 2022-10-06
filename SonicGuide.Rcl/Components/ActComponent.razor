@@ -14,7 +14,7 @@
 
         @if (Act?.Bosses is not null)
         {
-            @foreach (var boss in Act.Bosses)
+            @foreach (var boss in Act.Bosses.OrderBy(boss => boss.Order))
             {
                 <BossComponent Game="Game"
                    Zone="Zone"

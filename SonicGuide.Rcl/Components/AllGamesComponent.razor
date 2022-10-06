@@ -1,6 +1,6 @@
 ﻿@if (State.GameData?.Games is not null)
 {
-    @foreach (var game in State.GameData.Games)
+    @foreach (var game in State.GameData.Games.OrderBy(game => game.Order))
     {
         <GameComponent Game="game" />
     }

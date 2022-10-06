@@ -14,7 +14,7 @@
 
         @if (Game.Zones is not null)
         {
-            @foreach (var zone in Game.Zones)
+            @foreach (var zone in Game.Zones.OrderBy(zone => zone.Order))
             {
                 <ZoneComponent Game="Game"
                    Zone="zone" />
