@@ -354,3 +354,5 @@ MigrationBackup/
 
 *.db
 *.db-*
+
+SonicGuide.Wasm/wwwroot/lib/
