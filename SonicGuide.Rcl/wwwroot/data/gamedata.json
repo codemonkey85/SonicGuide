@@ -3,7 +3,7 @@
     {
       "name": "Sonic The Hedgehog",
       "order": 1,
-      "image": "",
+      "image": "Sonic1_title.png",
       "zones": [
         {
           "name": "Green Hill Zone",
@@ -189,7 +189,7 @@
     {
       "name": "Sonic The Hedgehog 2",
       "order": 2,
-      "image": "",
+      "image": "Sonic2_title.png",
       "zones": [
         {
           "name": "Emerald Hill Zone",
@@ -441,7 +441,7 @@
     {
       "name": "Sonic The Hedgehog 3",
       "order": 3,
-      "image": "",
+      "image": "Sonic3_title.png",
       "zones": [
         {
           "name": "Angel Island Zone",
@@ -643,7 +643,7 @@
     {
       "name": "Sonic & Knuckles",
       "order": 4,
-      "image": "",
+      "image": "SonicK_title.png",
       "zones": [
         {
           "name": "Mushroom Hill Zone",
@@ -861,7 +861,7 @@
     {
       "name": "Sonic Mania",
       "order": 5,
-      "image": "",
+      "image": "SonicM_title.png",
       "zones": [
         {
           "name": "Green Hill Zone",
