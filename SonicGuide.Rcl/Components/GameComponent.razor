@@ -1,13 +1,12 @@
 ﻿@if (Game is not null)
 {
     <div class="game-div">
-        <h1>
+        <div>
             <button class="btn btn-secondary"
                 @onclick=SpeakGameName>
                 @Game.Name
             </button>
-        </h1>
-        <h2>@Game.Order</h2>
+        </div>
         @if (!string.IsNullOrEmpty(Game.Image))
         {
             <img src="_content/SonicGuide.Rcl/img/@Game.Image" hidden="@hideImage" @onerror=OnImgError />
