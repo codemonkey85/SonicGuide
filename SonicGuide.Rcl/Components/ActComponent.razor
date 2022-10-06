@@ -1,7 +1,7 @@
 ﻿@if (Act is not null)
 {
     <div class="act-div">
-        <h1>@Act.name</h1>
+        <h1><button class="btn btn-secondary" @onclick=SpeakActName>@Act.name</button></h1>
         <h2>@Act.order</h2>
 
         @if (Act?.bosses is not null)

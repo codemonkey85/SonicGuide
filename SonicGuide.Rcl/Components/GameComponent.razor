@@ -1,7 +1,7 @@
 ﻿@if (Game is not null)
 {
     <div class="game-div">
-        <h1>@Game.name</h1>
+        <h1><button class="btn btn-secondary" @onclick=SpeakGameName>@Game.name</button></h1>
         <h2>@Game.order</h2>
 
         @if (Game.zones is not null)
