@@ -5,7 +5,7 @@
         <h2>@Game.order</h2>
         @if (!string.IsNullOrEmpty(Game.image))
         {
-            <img src="@Game.image" hidden="@hideImage" @onerror=OnImgError />
+            <img src="_content/SonicGuide.Rcl/img/@Game.image" hidden="@hideImage" @onerror=OnImgError />
         }
 
         @if (Game.zones is not null)

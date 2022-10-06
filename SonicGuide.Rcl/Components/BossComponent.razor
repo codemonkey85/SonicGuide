@@ -5,7 +5,7 @@
         <h2>@Boss.order</h2>
         @if (!string.IsNullOrEmpty(Boss.image))
         {
-            <img src="@Boss.image" hidden="@hideImage" @onerror=OnImgError />
+            <img src="_content/SonicGuide.Rcl/img/@Boss.image" hidden="@hideImage" @onerror=OnImgError />
         }
     </div>
 }

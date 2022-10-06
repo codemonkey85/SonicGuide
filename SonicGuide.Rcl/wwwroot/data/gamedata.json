@@ -8,7 +8,7 @@
         {
           "name": "Green Hill Zone",
           "order": 1,
-          "image": "",
+          "image": "Sonic1_GreenHillZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -37,7 +37,7 @@
         {
           "name": "Marble Zone",
           "order": 2,
-          "image": "",
+          "image": "Sonic1_MarbleZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -66,7 +66,7 @@
         {
           "name": "Spring Yard Zone",
           "order": 3,
-          "image": "",
+          "image": "Sonic1_SpringYardZone.png",
           "acts": [
             {
               "name": "Act 1",
