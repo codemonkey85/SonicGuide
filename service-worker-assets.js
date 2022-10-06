@@ -1,11 +1,11 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-ewrGyZskuxMzUiwMPaDWNznrXWB2U1CJk+0BJOgt7+A=",
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-n\/M3Bq8vKbzDhLxmuRk7n+IBUlCF3BcXcquV7ahclF8=",
       "url": "icon-512.png"
     },
     {
@@ -49,7 +49,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-KLPXT6yUST4JWelnGXqFhBxfqW1c+v04+4GnrGP70+k=",
+      "hash": "sha256-0qt61g9uKXxpuidWObpa+jenO+5BOgHhm8BW6qSXaDk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -109,15 +109,15 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-6Gm0QU3zym6hLSNWMO5TwO5UQaJIAvYjPA9LRiqzBwA=",
+      "hash": "sha256-bxh6gcf8t2ipKEL6BTBOxOpmDLc1RJaSAX38ec+JBVs=",
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-rKjty\/7jDI8kN6\/n7zyGyT1tOBe6wYLWNSOXLey9QZw=",
+      "hash": "sha256-Lvw3EKqZ7O+GigXWIZt3hdLyGseeshWTj1CVj9oZ7gI=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
-      "hash": "sha256-3xKgJQ+MgF7ein7P8XN4a6H2lTvxpfmawiyHVFdUjyA=",
+      "hash": "sha256-uJ1d0dc1A3UH\/mPb6m0MNYeIXuti2i\/Z4dz7PFh4WG8=",
       "url": "_framework\/SonicGuide.Wasm.dll"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-ExbI5qjBwtLW8BlsUXfg\/8eHGyBMh2oNn8J1cAx3K\/Q=",
+      "hash": "sha256-NTiV5zCrx0h1eXooJR+BfIZaRSODKvMOcpxBtKQbEkI=",
       "url": "_framework\/System.Text.Json.dll"
     },
     {
@@ -205,7 +205,7 @@
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
-      "hash": "sha256-hzC3ucGFR3FYCGCiRhXP4cEbi+6O7dthpSBi\/ErvcAI=",
+      "hash": "sha256-rXiKQtRIeEaxGVXbd7bLOZRY1R3DRoGSm5NWyehj\/8M=",
       "url": "_content\/SonicGuide.Rcl\/data\/gamedata.json"
     },
     {
@@ -321,6 +321,54 @@
       "url": "_content\/SonicGuide.Rcl\/img\/Sonic3_title.png"
     },
     {
+      "hash": "sha256-nHRHu3o40MNDGM\/tFMrH5isoNlOiMTcJr+t+7YxpYFk=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicCD_CollisionChaosZone.png"
+    },
+    {
+      "hash": "sha256-FQeCN+VGyYBS2fjJLhuXc4x+pvzMDZdEusmhgUGuwfg=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicCD_MetallicMadnessZone.png"
+    },
+    {
+      "hash": "sha256-UhclxcY21dImpTNUQMPCy8YN9VKq4gySr+ZNMXc3CNc=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicCD_PalmtreePanicZone.png"
+    },
+    {
+      "hash": "sha256-9\/6Pc4MTdRBNr9t9qPElzOZ0nFQ16d41k2kfH5Ut1z4=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicCD_QuartzQuadrantZone.png"
+    },
+    {
+      "hash": "sha256-CtXcGf1P5kgm7K4i4JfKq4g7WF1Z6q0NBB3O3EyYQP4=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicCD_StardustSpeedwayZone.png"
+    },
+    {
+      "hash": "sha256-4yWMZvFYlXRxJPR7ZBQSDZDcTJeOGRWw1JKegoHHyaM=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicCD_TidalTempestZone.png"
+    },
+    {
+      "hash": "sha256-Q6wU7UgAfMoDELCi2j2JyBUOLEgBwOFRoaZQ46JaVKU=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicCD_title.png"
+    },
+    {
+      "hash": "sha256-FRqzrIs8BmPc918kNLn5Lv4OIdJN64LxgxviqZFCIXI=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicCD_WackyWorkbenchZone.png"
+    },
+    {
+      "hash": "sha256-HYRAYorTAu7rU42XG4g\/vclliBL+gTrx1GpfK\/OxvBo=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicGuide2048.png"
+    },
+    {
+      "hash": "sha256-donrIULm\/uxtGDy56gbM1+600U6eOXqPQn8qOfiRJgs=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicGuide240.png"
+    },
+    {
+      "hash": "sha256-wrKXDZYKBt4qhQpX4VO1R427B2azeYWFiYk0c9iCyYg=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicGuide360.png"
+    },
+    {
+      "hash": "sha256-n\/M3Bq8vKbzDhLxmuRk7n+IBUlCF3BcXcquV7ahclF8=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicGuide512.png"
+    },
+    {
       "hash": "sha256-x59MGhKCviSzlrlKUCKgtW5Xq2GpPq7O8LBo+Uk7\/R0=",
       "url": "_content\/SonicGuide.Rcl\/img\/SonicK_DeathEggZone.png"
     },
@@ -421,5 +469,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "5r9PWgjB"
+  "version": "nf28yT5q"
 };

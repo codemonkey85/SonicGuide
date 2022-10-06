@@ -187,8 +187,14 @@
       ]
     },
     {
-      "name": "Sonic The Hedgehog 2",
+      "name": "Sonic CD",
       "order": 2,
+      "image": "SonicCD_title.png",
+      "zones": []
+    },
+    {
+      "name": "Sonic The Hedgehog 2",
+      "order": 3,
       "image": "Sonic2_title.png",
       "zones": [
         {
@@ -440,7 +446,7 @@
     },
     {
       "name": "Sonic The Hedgehog 3",
-      "order": 3,
+      "order": 4,
       "image": "Sonic3_title.png",
       "zones": [
         {
@@ -642,7 +648,7 @@
     },
     {
       "name": "Sonic & Knuckles",
-      "order": 4,
+      "order": 5,
       "image": "SonicK_title.png",
       "zones": [
         {
@@ -860,7 +866,7 @@
     },
     {
       "name": "Sonic Mania",
-      "order": 5,
+      "order": 6,
       "image": "SonicM_title.png",
       "zones": [
         {
