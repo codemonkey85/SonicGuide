@@ -205,7 +205,7 @@
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
-      "hash": "sha256-jdDqA1p4j6Ly45eZJRv+QwZq3Yw6ecLjQBxu\/+dNdZU=",
+      "hash": "sha256-hzC3ucGFR3FYCGCiRhXP4cEbi+6O7dthpSBi\/ErvcAI=",
       "url": "_content\/SonicGuide.Rcl\/data\/gamedata.json"
     },
     {
@@ -235,6 +235,10 @@
     {
       "hash": "sha256-T9Ay+kUmfg1AtfDElm5gSZm8Gc0HDIgzmDfyf\/cuEIU=",
       "url": "_content\/SonicGuide.Rcl\/img\/Sonic1_StarLightZone.png"
+    },
+    {
+      "hash": "sha256-NIEwjZBTr0Gkv4cvH08SrS951NWsvQoTkIadq7\/YNnM=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic1_title.png"
     },
     {
       "hash": "sha256-x46XuesvB0cqLOt8lx1\/6muebGvncvfCwq3WPjJOK+8=",
@@ -281,6 +285,10 @@
       "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_SkyChaseZone.png"
     },
     {
+      "hash": "sha256-m4G91b4pVtjmHH4aL7pkLXJTVR3k4qMZtJiR9ug6GBg=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_title.png"
+    },
+    {
       "hash": "sha256-oAlziZAfOKSHFqCLe1rBCBwfyGvPJSVyxhvJeh7HhK0=",
       "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_WingFortressZone.png"
     },
@@ -307,6 +315,10 @@
     {
       "hash": "sha256-9oAHMFxYAoovOVazCJiR1OA5U7Dds5A12eDY+\/HhofQ=",
       "url": "_content\/SonicGuide.Rcl\/img\/Sonic3_MarbleGardenZone.png"
+    },
+    {
+      "hash": "sha256-qiEY53HAkP1bLdvnSS33GiFOy8Jc\/wTRKt21wvvBG1E=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic3_title.png"
     },
     {
       "hash": "sha256-x59MGhKCviSzlrlKUCKgtW5Xq2GpPq7O8LBo+Uk7\/R0=",
@@ -339,6 +351,10 @@
     {
       "hash": "sha256-paxs31aBo0OWcxf6z9xf5NdIOlDIb96Vx0JEPng7Fe0=",
       "url": "_content\/SonicGuide.Rcl\/img\/SonicK_TheDoomsdayZone.png"
+    },
+    {
+      "hash": "sha256-w8S1EJIJb\/UTliQP8fT87ZCuTg+18MGIj85e9BKdduo=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicK_title.png"
     },
     {
       "hash": "sha256-GMfaMNWfTX1SKiYmPe5NTEB72LkqEFQ\/HWpIMpJpYps=",
@@ -397,9 +413,13 @@
       "url": "_content\/SonicGuide.Rcl\/img\/SonicM_TitanicMonarchZone.png"
     },
     {
+      "hash": "sha256-0ETbmMalXtnyNVY6oObgD6Yo9K2c0ZE6kE0Q0pKfhUQ=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_title.png"
+    },
+    {
       "hash": "sha256-xNc8r2MMe+s7zP+L86KOzeechvqxoDh9OUYQyJCW\/Mw=",
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "Yz7GFeB6"
+  "version": "5r9PWgjB"
 };
