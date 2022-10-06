@@ -49,7 +49,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-xeDspzCEo5cFZ\/gFxz9ZuLoyybFOYKjw0MPlsfFMntc=",
+      "hash": "sha256-KLPXT6yUST4JWelnGXqFhBxfqW1c+v04+4GnrGP70+k=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -113,7 +113,7 @@
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-iIstMt+sM12OO2G0HxH9yXTgu8DKDr2ze6rlYMAFw3g=",
+      "hash": "sha256-rKjty\/7jDI8kN6\/n7zyGyT1tOBe6wYLWNSOXLey9QZw=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
@@ -205,7 +205,7 @@
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
-      "hash": "sha256-ksE0uea08qo39MW7YoWGuyobG2L9SBtbPSSk\/mfV8aQ=",
+      "hash": "sha256-zPNFRl3VxZ9unc3XXlGfOuyIGynKFF6WA9GZvcxoclA=",
       "url": "_content\/SonicGuide.Rcl\/data\/gamedata.json"
     },
     {
@@ -245,5 +245,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "xbSzQNdJ"
+  "version": "32aP9bRg"
 };
