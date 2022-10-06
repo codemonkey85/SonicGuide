@@ -1,11 +1,11 @@
 ﻿@if (Boss is not null)
 {
     <div class="boss-div">
-        <h1><button class="btn btn-secondary" @onclick=SpeakBossName>@Boss.name</button></h1>
-        <h2>@Boss.order</h2>
-        @if (!string.IsNullOrEmpty(Boss.image))
+        <h1><button class="btn btn-secondary" @onclick=SpeakBossName>@Boss.Name</button></h1>
+        <h2>@Boss.Order</h2>
+        @if (!string.IsNullOrEmpty(Boss.Image))
         {
-            <img src="_content/SonicGuide.Rcl/img/@Boss.image" hidden="@hideImage" @onerror=OnImgError />
+            <img src="_content/SonicGuide.Rcl/img/@Boss.Image" hidden="@hideImage" @onerror=OnImgError />
         }
     </div>
 }

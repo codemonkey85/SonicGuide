@@ -3,5 +3,5 @@
 public class GameData
 {
     [JsonPropertyName("games")]
-    public Game[]? games { get; set; }
+    public Game[]? Games { get; set; }
 }

@@ -6,11 +6,11 @@ public partial class GameComponent
 
     private async Task SpeakGameName()
     {
-        if (Game?.name is null)
+        if (Game?.Name is null)
         {
             return;
         }
-        await JsInterop.SpeakTextAsync(Game.name);
+        await JsInterop.SpeakTextAsync(Game.Name);
     }
 
     private bool hideImage = false;

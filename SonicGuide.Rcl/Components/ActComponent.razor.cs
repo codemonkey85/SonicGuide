@@ -10,11 +10,11 @@ public partial class ActComponent
 
     private async Task SpeakActName()
     {
-        if (Act?.name is null)
+        if (Act?.Name is null)
         {
             return;
         }
-        await JsInterop.SpeakTextAsync(Act.name);
+        await JsInterop.SpeakTextAsync(Act.Name);
     }
 
     private bool hideImage = false;

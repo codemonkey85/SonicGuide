@@ -8,11 +8,11 @@ public partial class ZoneComponent
 
     private async Task SpeakZoneName()
     {
-        if (Zone?.name is null)
+        if (Zone?.Name is null)
         {
             return;
         }
-        await JsInterop.SpeakTextAsync(Zone.name);
+        await JsInterop.SpeakTextAsync(Zone.Name);
     }
 
     private bool hideImage = false;

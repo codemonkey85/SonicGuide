@@ -12,11 +12,11 @@ public partial class BossComponent
 
     private async Task SpeakBossName()
     {
-        if (Boss?.name is null)
+        if (Boss?.Name is null)
         {
             return;
         }
-        await JsInterop.SpeakTextAsync(Boss.name);
+        await JsInterop.SpeakTextAsync(Boss.Name);
     }
 
     private bool hideImage = false;

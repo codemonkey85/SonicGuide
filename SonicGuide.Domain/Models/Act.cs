@@ -3,14 +3,14 @@
 public class Act
 {
     [JsonPropertyName("name")]
-    public string? name { get; set; }
+    public string? Name { get; set; }
 
     [JsonPropertyName("order")]
-    public int? order { get; set; }
+    public int? Order { get; set; }
 
     [JsonPropertyName("image")]
-    public string? image { get; set; }
+    public string? Image { get; set; }
 
     [JsonPropertyName("bosses")]
-    public Boss[]? bosses { get; set; }
+    public Boss[]? Bosses { get; set; }
 }

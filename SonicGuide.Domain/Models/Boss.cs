@@ -3,11 +3,11 @@
 public class Boss
 {
     [JsonPropertyName("name")]
-    public string? name { get; set; }
+    public string? Name { get; set; }
 
     [JsonPropertyName("order")]
-    public int? order { get; set; }
+    public int? Order { get; set; }
 
     [JsonPropertyName("image")]
-    public string? image { get; set; }
+    public string? Image { get; set; }
 }
