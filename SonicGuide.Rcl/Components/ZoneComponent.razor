@@ -9,7 +9,7 @@
         </div>
         @if (!string.IsNullOrEmpty(Zone.Image))
         {
-            <img src="_content/SonicGuide.Rcl/img/@Zone.Image" hidden="@hideImage" @onerror=OnImgError />
+            <img src="_content/SonicGuide.Rcl/img/@Zone.Image" hidden="@hideImage" class="zone-img" @onerror=OnImgError />
         }
 
         @if (Zone.Acts is not null)

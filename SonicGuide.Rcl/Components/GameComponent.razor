@@ -9,7 +9,7 @@
         </div>
         @if (!string.IsNullOrEmpty(Game.Image))
         {
-            <img src="_content/SonicGuide.Rcl/img/@Game.Image" hidden="@hideImage" @onerror=OnImgError />
+            <img src="_content/SonicGuide.Rcl/img/@Game.Image" hidden="@hideImage" class="game-img" @onerror=OnImgError />
         }
 
         @if (Game.Zones is not null)

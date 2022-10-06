@@ -9,7 +9,7 @@
         </div>
         @if (!string.IsNullOrEmpty(Boss.Image))
         {
-            <img src="_content/SonicGuide.Rcl/img/@Boss.Image" hidden="@hideImage" @onerror=OnImgError />
+            <img src="_content/SonicGuide.Rcl/img/@Boss.Image" hidden="@hideImage" class="boss-img" @onerror=OnImgError />
         }
     </div>
 }
