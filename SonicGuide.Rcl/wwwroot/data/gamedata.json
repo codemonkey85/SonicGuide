@@ -95,7 +95,7 @@
         {
           "name": "Labyrinth Zone",
           "order": 4,
-          "image": "",
+          "image": "Sonic1_LabyrinthZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -124,7 +124,7 @@
         {
           "name": "Star Light Zone",
           "order": 5,
-          "image": "",
+          "image": "Sonic1_StarLightZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -153,7 +153,7 @@
         {
           "name": "Scrap Brain Zone",
           "order": 6,
-          "image": "",
+          "image": "Sonic1_ScrapBrainZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -175,7 +175,7 @@
         {
           "name": "Final Zone",
           "order": 7,
-          "image": "",
+          "image": "Sonic1_FinalZone.png",
           "bosses": [
             {
               "name": "Robotnik",
@@ -242,7 +242,7 @@
         {
           "name": "Aquatic Ruin Zone",
           "order": 3,
-          "image": "",
+          "image": "Sonic2_AquaticRuinZone.png",
           "acts": [
             {
               "name": "Act 1",
