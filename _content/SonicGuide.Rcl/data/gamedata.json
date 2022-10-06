@@ -194,7 +194,7 @@
         {
           "name": "Emerald Hill Zone",
           "order": 1,
-          "image": "",
+          "image": "Sonic2_EmeraldHillZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -218,7 +218,7 @@
         {
           "name": "Chemical Plant Zone",
           "order": 2,
-          "image": "",
+          "image": "Sonic2_ChemicalPlantZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -266,7 +266,7 @@
         {
           "name": "Casino Night Zone",
           "order": 4,
-          "image": "",
+          "image": "Sonic2_CasinoNightZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -290,7 +290,7 @@
         {
           "name": "Hill Top Zone",
           "order": 5,
-          "image": "",
+          "image": "Sonic2_HillTopZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -314,7 +314,7 @@
         {
           "name": "Mystic Cave Zone",
           "order": 6,
-          "image": "",
+          "image": "Sonic2_MysticCaveZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -338,7 +338,7 @@
         {
           "name": "Oil Ocean Zone",
           "order": 7,
-          "image": "",
+          "image": "Sonic2_OilOceanZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -362,7 +362,7 @@
         {
           "name": "Metropolis Zone",
           "order": 8,
-          "image": "",
+          "image": "Sonic2_MetropolisZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -391,7 +391,7 @@
         {
           "name": "Sky Chase Zone",
           "order": 9,
-          "image": "",
+          "image": "Sonic2_SkyChaseZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -403,7 +403,7 @@
         {
           "name": "Wing Fortress Zone",
           "order": 10,
-          "image": "",
+          "image": "Sonic2_WingFortressZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -422,7 +422,7 @@
         {
           "name": "Death Egg Zone",
           "order": 11,
-          "image": "",
+          "image": "Sonic2_DeathEggZone.png",
           "bosses": [
             {
               "name": "Metal Sonic",
@@ -446,7 +446,7 @@
         {
           "name": "Angel Island Zone",
           "order": 1,
-          "image": "",
+          "image": "Sonic3_AngelIslandZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -476,7 +476,7 @@
         {
           "name": "Hydrocity Zone",
           "order": 2,
-          "image": "",
+          "image": "Sonic3_HydrocityZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -507,7 +507,7 @@
         {
           "name": "Marble Garden Zone",
           "order": 3,
-          "image": "",
+          "image": "Sonic3_MarbleGardenZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -538,7 +538,7 @@
         {
           "name": "Carnival Night Zone",
           "order": 4,
-          "image": "",
+          "image": "Sonic3_CarnivalNightZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -569,7 +569,7 @@
         {
           "name": "Ice Cap Zone",
           "order": 5,
-          "image": "",
+          "image": "Sonic3_IceCapZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -600,7 +600,7 @@
         {
           "name": "Launch Base Zone",
           "order": 6,
-          "image": "",
+          "image": "Sonic3_LaunchBaseZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -648,7 +648,7 @@
         {
           "name": "Mushroom Hill Zone",
           "order": 1,
-          "image": "",
+          "image": "SonicK_MushroomHillZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -679,7 +679,7 @@
         {
           "name": "Flying Battery Zone",
           "order": 2,
-          "image": "",
+          "image": "SonicK_FlyingBatteryZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -710,7 +710,7 @@
         {
           "name": "Sandopolis Zone",
           "order": 3,
-          "image": "",
+          "image": "SonicK_SandopolisZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -741,7 +741,7 @@
         {
           "name": "Lava Reef Zone",
           "order": 4,
-          "image": "",
+          "image": "SonicK_LavaReefZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -772,7 +772,7 @@
         {
           "name": "Hidden Palace Zone",
           "order": 5,
-          "image": "",
+          "image": "SonicK_HiddenPalaceZone.png",
           "bosses": [
             {
               "name": "Knuckles",
@@ -784,7 +784,7 @@
         {
           "name": "Sky Sanctuary Zone",
           "order": 6,
-          "image": "",
+          "image": "SonicK_SkySanctuaryZone.png",
           "bosses": [
             {
               "name": "Eggrobo",
@@ -811,7 +811,7 @@
         {
           "name": "Death Egg Zone",
           "order": 7,
-          "image": "",
+          "image": "SonicK_DeathEggZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -847,7 +847,7 @@
         {
           "name": "The Doomsday Zone",
           "order": 8,
-          "image": "",
+          "image": "SonicK_TheDoomsdayZone.png",
           "bosses": [
             {
               "name": "Robotnik",
@@ -866,7 +866,7 @@
         {
           "name": "Green Hill Zone",
           "order": 1,
-          "image": "",
+          "image": "SonicM_GreenHillZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -897,7 +897,7 @@
         {
           "name": "Chemical Plant Zone",
           "order": 2,
-          "image": "",
+          "image": "SonicM_ChemicalPlantZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -928,7 +928,7 @@
         {
           "name": "Studiopolis Zone",
           "order": 3,
-          "image": "",
+          "image": "SonicM_StudiopolisZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -959,7 +959,7 @@
         {
           "name": "Flying Battery Zone",
           "order": 4,
-          "image": "",
+          "image": "SonicM_FlyingBatteryZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -990,7 +990,7 @@
         {
           "name": "Press Garden Zone",
           "order": 5,
-          "image": "",
+          "image": "SonicM_PressGardenZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -1021,7 +1021,7 @@
         {
           "name": "Stardust Speedway Zone",
           "order": 6,
-          "image": "",
+          "image": "SonicM_StardustSpeedwayZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -1052,7 +1052,7 @@
         {
           "name": "Hydrocity Zone",
           "order": 7,
-          "image": "",
+          "image": "SonicM_HydrocityZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -1083,7 +1083,7 @@
         {
           "name": "Mirage Saloon Zone",
           "order": 8,
-          "image": "",
+          "image": "SonicM_MirageSaloonZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -1114,7 +1114,7 @@
         {
           "name": "Oil Ocean Zone",
           "order": 9,
-          "image": "",
+          "image": "SonicM_OilOceanZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -1145,7 +1145,7 @@
         {
           "name": "Lava Reef Zone",
           "order": 10,
-          "image": "",
+          "image": "SonicM_LavaReefZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -1176,7 +1176,7 @@
         {
           "name": "Metallic Madness Zone",
           "order": 11,
-          "image": "",
+          "image": "SonicM_MetallicMadnessZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -1207,7 +1207,7 @@
         {
           "name": "Titanic Monarch Zone",
           "order": 12,
-          "image": "",
+          "image": "SonicM_TitanicMonarchZone.png",
           "acts": [
             {
               "name": "Act 1",
@@ -1238,7 +1238,7 @@
         {
           "name": "Egg Reverie Zone",
           "order": 13,
-          "image": "",
+          "image": "SonicM_EggReverieZone.png",
           "acts": [
             {
               "name": "Act 1",

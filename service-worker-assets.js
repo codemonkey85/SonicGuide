@@ -205,7 +205,7 @@
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
-      "hash": "sha256-WmniTYFSraW\/Hj+JKkMf9fsHLYq5HwPaLUivvme20jk=",
+      "hash": "sha256-jdDqA1p4j6Ly45eZJRv+QwZq3Yw6ecLjQBxu\/+dNdZU=",
       "url": "_content\/SonicGuide.Rcl\/data\/gamedata.json"
     },
     {
@@ -241,9 +241,165 @@
       "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_AquaticRuinZone.png"
     },
     {
+      "hash": "sha256-n4qrJBnnSRBmJO8gbvNjeCnrd0++UIBX1i6ZE1jIwn8=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_CasinoNightZone.png"
+    },
+    {
+      "hash": "sha256-5pyP0reH0BOg5pxu+jtUsrGWNgH4IUzZhoBSVAgVsEU=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_ChemicalPlantZone.png"
+    },
+    {
+      "hash": "sha256-bmsCIHaRpz3gL8amBob58YEMZFZHuLPjRXR21c1\/nOk=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_DeathEggZone.png"
+    },
+    {
+      "hash": "sha256-qbCGLyXd4FlnpG\/y7HWElG62yLpKLUHAlHc0Y\/FsaaQ=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_EmeraldHillZone.png"
+    },
+    {
+      "hash": "sha256-RiRs51tfHWZl\/EXdMmpCn5RY18jAlApC1IPHkMIr2+Q=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_HiddenPalaceZone.png"
+    },
+    {
+      "hash": "sha256-uh+pllzBD9cUk8hBU7aQfkfrRD+vO3UywaGz\/Zo6GsM=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_HillTopZone.png"
+    },
+    {
+      "hash": "sha256-9pVUUbXOJLvlN+MIJK3PIHJYsE+dXUVxpQwtK\/ePSxg=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_MetropolisZone.png"
+    },
+    {
+      "hash": "sha256-iyvCcJGGAbeOOv11tvh\/ywBlGIyvcm+I2TIXsQrH0I4=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_MysticCaveZone.png"
+    },
+    {
+      "hash": "sha256-Ka2PM2MRJ1MCtIAtXpX\/r6xTk77aRm9xQKJih4Vk5S0=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_OilOceanZone.png"
+    },
+    {
+      "hash": "sha256-iw\/JlRl7Vn2vPjH0GXeG+KPjWo0ajWTU9cNVtC6vdtw=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_SkyChaseZone.png"
+    },
+    {
+      "hash": "sha256-oAlziZAfOKSHFqCLe1rBCBwfyGvPJSVyxhvJeh7HhK0=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_WingFortressZone.png"
+    },
+    {
+      "hash": "sha256-gWfo4SBTdGH1b0Z8RT1Re\/U0s6J0k0j+XuLCZm9K1BM=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic3_AngelIslandZone.png"
+    },
+    {
+      "hash": "sha256-cpulaM5aDF9wVDFJxec2ep8i0etSuUJfmj43m4bZemc=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic3_CarnivalNightZone.png"
+    },
+    {
+      "hash": "sha256-04QMo4XsOvMfpkPk5Su+Ka7qdgcdot9PWPgNIiD7JiQ=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic3_HydrocityZone.png"
+    },
+    {
+      "hash": "sha256-7YjiqO6coU6ry2tVqZ5dx7AzVLVYJawnzaQ+\/liz430=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic3_IceCapZone.png"
+    },
+    {
+      "hash": "sha256-xNsN08w5i9qpnxTcD\/9iViMisTLhIbDMZ4efe0zuYRk=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic3_LaunchBaseZone.png"
+    },
+    {
+      "hash": "sha256-9oAHMFxYAoovOVazCJiR1OA5U7Dds5A12eDY+\/HhofQ=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic3_MarbleGardenZone.png"
+    },
+    {
+      "hash": "sha256-x59MGhKCviSzlrlKUCKgtW5Xq2GpPq7O8LBo+Uk7\/R0=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicK_DeathEggZone.png"
+    },
+    {
+      "hash": "sha256-NoW\/Pn5vjAbj\/2wTUKLtbTf3LB0mOy3zdqBormlS\/0s=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicK_FlyingBatteryZone.png"
+    },
+    {
+      "hash": "sha256-lIRv54w2B3RXwjBWNOPTpp3M7BV4AxKd03QQPloG58U=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicK_HiddenPalaceZone.png"
+    },
+    {
+      "hash": "sha256-IKNAMdRfEv7jSZxOAygfpTh7i70YD1\/LrNwT0\/5itY0=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicK_LavaReefZone.png"
+    },
+    {
+      "hash": "sha256-hZq5oMeHeuFC7m7yJnZT3aNm5QOd\/mcxWq6sCEAS9Y0=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicK_MushroomHillZone.png"
+    },
+    {
+      "hash": "sha256-+tztMSnDEzhS2YSuy7mWq1mqFDStkX4+RFBwG+DePNg=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicK_SandopolisZone.png"
+    },
+    {
+      "hash": "sha256-9mZjIrzmoFRHS++3mj+d9ci0eVZb54USoYHn2pyVo4w=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicK_SkySanctuaryZone.png"
+    },
+    {
+      "hash": "sha256-paxs31aBo0OWcxf6z9xf5NdIOlDIb96Vx0JEPng7Fe0=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicK_TheDoomsdayZone.png"
+    },
+    {
+      "hash": "sha256-GMfaMNWfTX1SKiYmPe5NTEB72LkqEFQ\/HWpIMpJpYps=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_AngelIslandZone.png"
+    },
+    {
+      "hash": "sha256-T3ctL70VYTAvXRcsz+qkphTiS\/hzTuCxrVi8Otr\/Qr8=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_ChemicalPlantZone.png"
+    },
+    {
+      "hash": "sha256-vlGL1md9QIU8o5C1mbPZdz61QASZ4BXNiiBBXBalmEY=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_EggReverieZone.png"
+    },
+    {
+      "hash": "sha256-qap27Gw1cGlccBp6ho26ch8o76xbFOqGdh3+o1IKhpc=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_FlyingBatteryZone.png"
+    },
+    {
+      "hash": "sha256-YEoGvX1tBjaRCaM1u4kc9vxX\/CbZ7am5yzFboOykTuE=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_GreenHillZone.png"
+    },
+    {
+      "hash": "sha256-RSXP+rkc+LUFAHv4XpoBgTIl4fSfGZWeO\/8Qew6YY2U=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_HydrocityZone.png"
+    },
+    {
+      "hash": "sha256-n72550irdub4fMLyAYxCAr47WXHbMsUbA3tubQK74WM=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_LavaReefZone.png"
+    },
+    {
+      "hash": "sha256-fAJDI4\/ELE7mluXlKoQ19QskcDFbHLgU2DJYKloND0E=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_MetallicMadnessZone.png"
+    },
+    {
+      "hash": "sha256-i0GtNLcoSsfhR19ne9wcRmDX\/bR+2jfEhad7fHzzm88=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_MirageSaloonZone.png"
+    },
+    {
+      "hash": "sha256-JefU5SPy0Oh4+9gISSZVlPIrKWCm0Sa\/2u6cl8GLyoo=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_OilOceanZone.png"
+    },
+    {
+      "hash": "sha256-YuQf2jPGRi5QCQKJT2iVsnnphKRvdzC3msoEq3moLU0=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_PressGardenZone.png"
+    },
+    {
+      "hash": "sha256-qLwrHrkI\/z6nqLqZX4VrBOViDVctBEkC0naSWf4j670=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_StardustSpeedwayZone.png"
+    },
+    {
+      "hash": "sha256-tFCalzSZsaAf0\/IAOoKqCcT\/rhUImJ532saxsHuH\/jE=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_StudiopolisZone.png"
+    },
+    {
+      "hash": "sha256-CQiaX\/59rUSl3Wvf+3yI87OYUssPxLfLKdb4B4q8Rk0=",
+      "url": "_content\/SonicGuide.Rcl\/img\/SonicM_TitanicMonarchZone.png"
+    },
+    {
       "hash": "sha256-xNc8r2MMe+s7zP+L86KOzeechvqxoDh9OUYQyJCW\/Mw=",
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "T\/ALav1B"
+  "version": "Yz7GFeB6"
 };
