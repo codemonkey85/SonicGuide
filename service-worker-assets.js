@@ -205,7 +205,7 @@
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
-      "hash": "sha256-zPNFRl3VxZ9unc3XXlGfOuyIGynKFF6WA9GZvcxoclA=",
+      "hash": "sha256-WmniTYFSraW\/Hj+JKkMf9fsHLYq5HwPaLUivvme20jk=",
       "url": "_content\/SonicGuide.Rcl\/data\/gamedata.json"
     },
     {
@@ -245,5 +245,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "32aP9bRg"
+  "version": "T\/ALav1B"
 };
