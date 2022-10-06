@@ -49,7 +49,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-BIVGyMuCZrvQbNj2WnvYeuBO21HQt3tnUvuR0scNkoM=",
+      "hash": "sha256-fFdH2\/\/nJMRD0\/TkD1gEIpGmYHIBh2NoPoflytIXaoQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -113,11 +113,11 @@
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-o2bURw9nU8IH\/tmLIvQe1e7Ee41D1zqqKQIJ0EsxRws=",
+      "hash": "sha256-dJzZxKJfUGf1NeIivTtpwptQCAjlWUVQ0\/h7r72rKv0=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
-      "hash": "sha256-orGoFum2WYZbWlkERrjajajzhUJOP8tVBtEkkw19Bq8=",
+      "hash": "sha256-MRFj9wFQlIhDtQMPWfQFUT68g\/yse1reGTbSyKapiTM=",
       "url": "_framework\/SonicGuide.Wasm.dll"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/System.Diagnostics.Tracing.dll"
     },
     {
-      "hash": "sha256-4YGGvkT9VT1niBB7TV2Ukmx\/zQhvxdWLyGU\/W4Cmipo=",
+      "hash": "sha256-l5xHA\/bwn9P20I7IH7SJOcTaGcJd+tekNItWC++Dy4Y=",
       "url": "_framework\/System.Linq.dll"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-JSUQN5SaDcqAmspmglzdQ5C6vrj\/ZMC7+5JzxBKcJnA=",
+      "hash": "sha256-YqGhARUcguHCZxf\/Ep4m9gCadQw7PxqgOPdBVA6OTVI=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-CGDtd3ipHHdfTKLLiPXfcFK4TtOZ3k2zaTwlJ0D35yo=",
+      "hash": "sha256-KPCXd+BMDl9up+GPPwxl4r9xbJYaKLidLYgGgPjWkQM=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -469,5 +469,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "MVds4IdL"
+  "version": "67xOMmtX"
 };
