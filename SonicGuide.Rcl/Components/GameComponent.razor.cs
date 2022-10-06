@@ -12,4 +12,8 @@ public partial class GameComponent
         }
         await JsInterop.SpeakTextAsync(Game.name);
     }
+
+    private bool hideImage = false;
+
+    private void OnImgError() => hideImage = true;
 }

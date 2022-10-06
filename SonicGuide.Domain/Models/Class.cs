@@ -11,6 +11,8 @@ public class Game
 
     public int? order { get; set; }
 
+    public string? image { get; set; }
+
     public Zone[]? zones { get; set; }
 }
 
@@ -19,6 +21,8 @@ public class Zone
     public string? name { get; set; }
 
     public int? order { get; set; }
+
+    public string? image { get; set; }
 
     public Act[]? acts { get; set; }
 
@@ -31,6 +35,8 @@ public class Act
 
     public int? order { get; set; }
 
+    public string? image { get; set; }
+
     public Boss[]? bosses { get; set; }
 }
 
@@ -39,4 +45,6 @@ public class Boss
     public string? name { get; set; }
 
     public int? order { get; set; }
+
+    public string? image { get; set; }
 }

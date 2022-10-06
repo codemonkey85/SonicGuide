@@ -3,26 +3,32 @@
     {
       "name": "Sonic The Hedgehog",
       "order": 1,
+      "image": "",
       "zones": [
         {
           "name": "Green Hill Zone",
           "order": 1,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
-              "order": 2
+              "order": 2,
+              "image": ""
             },
             {
               "name": "Act 3",
               "order": 3,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -31,22 +37,27 @@
         {
           "name": "Marble Zone",
           "order": 2,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
-              "order": 2
+              "order": 2,
+              "image": ""
             },
             {
               "name": "Act 3",
               "order": 3,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -55,22 +66,27 @@
         {
           "name": "Spring Yard Zone",
           "order": 3,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
-              "order": 2
+              "order": 2,
+              "image": ""
             },
             {
               "name": "Act 3",
               "order": 3,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -79,22 +95,27 @@
         {
           "name": "Labyrinth Zone",
           "order": 4,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
-              "order": 2
+              "order": 2,
+              "image": ""
             },
             {
               "name": "Act 3",
               "order": 3,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -103,22 +124,27 @@
         {
           "name": "Star Light Zone",
           "order": 5,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
-              "order": 2
+              "order": 2,
+              "image": ""
             },
             {
               "name": "Act 3",
               "order": 3,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -127,28 +153,34 @@
         {
           "name": "Scrap Brain Zone",
           "order": 6,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
-              "order": 2
+              "order": 2,
+              "image": ""
             },
             {
               "name": "Act 3",
-              "order": 3
+              "order": 3,
+              "image": ""
             }
           ]
         },
         {
           "name": "Final Zone",
           "order": 7,
+          "image": "",
           "bosses": [
             {
               "name": "Robotnik",
-              "order": 1
+              "order": 1,
+              "image": ""
             }
           ]
         }
@@ -157,22 +189,27 @@
     {
       "name": "Sonic The Hedgehog 2",
       "order": 2,
+      "image": "",
       "zones": [
         {
           "name": "Emerald Hill Zone",
           "order": 1,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -181,18 +218,22 @@
         {
           "name": "Chemical Plant Zone",
           "order": 2,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -201,18 +242,22 @@
         {
           "name": "Aquatic Ruin Zone",
           "order": 3,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -221,18 +266,22 @@
         {
           "name": "Casino Night Zone",
           "order": 4,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -241,18 +290,22 @@
         {
           "name": "Hill Top Zone",
           "order": 5,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -261,18 +314,22 @@
         {
           "name": "Mystic Cave Zone",
           "order": 6,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -281,18 +338,22 @@
         {
           "name": "Oil Ocean Zone",
           "order": 7,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -301,22 +362,27 @@
         {
           "name": "Metropolis Zone",
           "order": 8,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Act 2",
-              "order": 2
+              "order": 2,
+              "image": ""
             },
             {
               "name": "Act 3",
               "order": 3,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -325,24 +391,29 @@
         {
           "name": "Sky Chase Zone",
           "order": 9,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
-              "order": 1
+              "order": 1,
+              "image": ""
             }
           ]
         },
         {
           "name": "Wing Fortress Zone",
           "order": 10,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -351,14 +422,17 @@
         {
           "name": "Death Egg Zone",
           "order": 11,
+          "image": "",
           "bosses": [
             {
               "name": "Metal Sonic",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Robotnik",
-              "order": 2
+              "order": 2,
+              "image": ""
             }
           ]
         }
@@ -367,10 +441,12 @@
     {
       "name": "Sonic The Hedgehog 3",
       "order": 3,
+      "image": "",
       "zones": [
         {
           "name": "Angel Island Zone",
           "order": 1,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
@@ -378,17 +454,20 @@
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -397,24 +476,29 @@
         {
           "name": "Hydrocity Zone",
           "order": 2,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -423,24 +507,29 @@
         {
           "name": "Marble Garden Zone",
           "order": 3,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -449,50 +538,60 @@
         {
           "name": "Carnival Night Zone",
           "order": 4,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
           ]
         },
         {
-          "name": "Icecap Zone",
+          "name": "Ice Cap Zone",
           "order": 5,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -501,32 +600,39 @@
         {
           "name": "Launch Base Zone",
           "order": 6,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 },
                 {
                   "name": "Robotnik",
-                  "order": 2
+                  "order": 2,
+                  "image": ""
                 },
                 {
                   "name": "Robotnik",
-                  "order": 3
+                  "order": 3,
+                  "image": ""
                 }
               ]
             }
@@ -537,28 +643,34 @@
     {
       "name": "Sonic & Knuckles",
       "order": 4,
+      "image": "",
       "zones": [
         {
           "name": "Mushroom Hill Zone",
           "order": 1,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -567,24 +679,29 @@
         {
           "name": "Flying Battery Zone",
           "order": 2,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -593,24 +710,29 @@
         {
           "name": "Sandopolis Zone",
           "order": 3,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -619,24 +741,29 @@
         {
           "name": "Lava Reef Zone",
           "order": 4,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -645,60 +772,73 @@
         {
           "name": "Hidden Palace Zone",
           "order": 5,
+          "image": "",
           "bosses": [
             {
               "name": "Knuckles",
-              "order": 1
+              "order": 1,
+              "image": ""
             }
           ]
         },
         {
           "name": "Sky Sanctuary Zone",
           "order": 6,
+          "image": "",
           "bosses": [
             {
               "name": "Eggrobo",
-              "order": 1
+              "order": 1,
+              "image": ""
             },
             {
               "name": "Eggrobo",
-              "order": 2
+              "order": 2,
+              "image": ""
             },
             {
               "name": "Eggrobo",
-              "order": 3
+              "order": 3,
+              "image": ""
             },
             {
               "name": "Mecha Sonic",
-              "order": 4
+              "order": 4,
+              "image": ""
             }
           ]
         },
         {
           "name": "Death Egg Zone",
           "order": 7,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 },
                 {
                   "name": "Robotnik",
-                  "order": 2
+                  "order": 2,
+                  "image": ""
                 }
               ]
             }
@@ -707,10 +847,12 @@
         {
           "name": "The Doomsday Zone",
           "order": 8,
+          "image": "",
           "bosses": [
             {
               "name": "Robotnik",
-              "order": 1
+              "order": 1,
+              "image": ""
             }
           ]
         }
@@ -719,28 +861,34 @@
     {
       "name": "Sonic Mania",
       "order": 5,
+      "image": "",
       "zones": [
         {
           "name": "Green Hill Zone",
           "order": 1,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -749,24 +897,29 @@
         {
           "name": "Chemical Plant Zone",
           "order": 2,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -775,24 +928,29 @@
         {
           "name": "Studiopolis Zone",
           "order": 3,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -801,24 +959,29 @@
         {
           "name": "Flying Battery Zone",
           "order": 4,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -827,24 +990,29 @@
         {
           "name": "Press Garden Zone",
           "order": 5,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -853,24 +1021,29 @@
         {
           "name": "Stardust Speedway Zone",
           "order": 6,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Hotaru Hi-Watt",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Metal Sonic",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -879,24 +1052,29 @@
         {
           "name": "Hydrocity Zone",
           "order": 7,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Dive Eggman",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Laundro Mobile",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -905,24 +1083,29 @@
         {
           "name": "Mirage Saloon Zone",
           "order": 8,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Uber Caterkiller",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Heavy Magician",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -931,24 +1114,29 @@
         {
           "name": "Oil Ocean Zone",
           "order": 9,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Meter Droid",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Mega Octus",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -957,24 +1145,29 @@
         {
           "name": "Lava Reef Zone",
           "order": 10,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Drillerdroid",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -983,24 +1176,29 @@
         {
           "name": "Metallic Madness Zone",
           "order": 11,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -1009,24 +1207,29 @@
         {
           "name": "Titanic Monarch Zone",
           "order": 12,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }
@@ -1035,24 +1238,29 @@
         {
           "name": "Egg Reverie Zone",
           "order": 13,
+          "image": "",
           "acts": [
             {
               "name": "Act 1",
               "order": 1,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             },
             {
               "name": "Act 2",
               "order": 2,
+              "image": "",
               "bosses": [
                 {
                   "name": "Robotnik",
-                  "order": 1
+                  "order": 1,
+                  "image": ""
                 }
               ]
             }

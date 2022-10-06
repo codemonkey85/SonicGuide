@@ -3,6 +3,9 @@
     <div class="boss-div">
         <h1><button class="btn btn-secondary" @onclick=SpeakBossName>@Boss.name</button></h1>
         <h2>@Boss.order</h2>
+        @if (!string.IsNullOrEmpty(Boss.image))
+        {
+            <img src="@Boss.image" hidden="@hideImage" @onerror=OnImgError />
+        }
     </div>
 }
-

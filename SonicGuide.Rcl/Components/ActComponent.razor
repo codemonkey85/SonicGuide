@@ -3,12 +3,16 @@
     <div class="act-div">
         <h1><button class="btn btn-secondary" @onclick=SpeakActName>@Act.name</button></h1>
         <h2>@Act.order</h2>
+        @if (!string.IsNullOrEmpty(Act.image))
+        {
+            <img src="@Act.image" hidden="@hideImage" @onerror=OnImgError />
+        }
 
         @if (Act?.bosses is not null)
         {
             @foreach (var boss in Act.bosses)
             {
-                <BossComponent Boss="boss" />
+                <BossComponent Game="Game" Zone="Zone" Act="Act" Boss="boss" />
             }
         }
     </div>
