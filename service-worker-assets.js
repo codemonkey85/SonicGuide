@@ -49,7 +49,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-0qt61g9uKXxpuidWObpa+jenO+5BOgHhm8BW6qSXaDk=",
+      "hash": "sha256-EHeqamIbZtOvYAFRD8hEdHV9bJuF3wC37V5IZ3YUiVY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -109,15 +109,15 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-bxh6gcf8t2ipKEL6BTBOxOpmDLc1RJaSAX38ec+JBVs=",
+      "hash": "sha256-v4c58ycLgAWz1bvmSwx8JEFd7itklkYl1pgOdI4uYTY=",
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-Lvw3EKqZ7O+GigXWIZt3hdLyGseeshWTj1CVj9oZ7gI=",
+      "hash": "sha256-Ws4\/dKX0oBjLPgRK69aBuNCrDqqMoF+bsKUBhiD7OW0=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
-      "hash": "sha256-uJ1d0dc1A3UH\/mPb6m0MNYeIXuti2i\/Z4dz7PFh4WG8=",
+      "hash": "sha256-S7ZJIAPBAfezddXCWKLkv6Z0z12zvJ4b1TedOU2jQz4=",
       "url": "_framework\/SonicGuide.Wasm.dll"
     },
     {
@@ -469,5 +469,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "nf28yT5q"
+  "version": "\/s4NV3cu"
 };
