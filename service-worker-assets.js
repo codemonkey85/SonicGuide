@@ -49,11 +49,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-yq\/e+JJFyqacN2p0SvXKnMjSDg\/BSuS0ppv56N8j+Qw=",
+      "hash": "sha256-xeDspzCEo5cFZ\/gFxz9ZuLoyybFOYKjw0MPlsfFMntc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Wh3190LH85SmhG\/IIaZr7Pfc72k9ESq0PtjI0TG5uTU=",
+      "hash": "sha256-\/7ZUGe0nf8uZaLfPsdjzMEy26AozGn27a5kgwCqtuGo=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -109,15 +109,15 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-mtP3dsigWg+sg47ohxpI7\/y\/GwrlD1AOLYH34ogotSA=",
+      "hash": "sha256-6Gm0QU3zym6hLSNWMO5TwO5UQaJIAvYjPA9LRiqzBwA=",
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-kwE\/eThTIVBPIUlprgLkBwZM32KG1fvSbvRGuvIWwjU=",
+      "hash": "sha256-iIstMt+sM12OO2G0HxH9yXTgu8DKDr2ze6rlYMAFw3g=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
-      "hash": "sha256-G5uWcM\/Zm8fOFdZbonoqkgkMP5KQOaNuWHJhrOZdeu0=",
+      "hash": "sha256-3xKgJQ+MgF7ein7P8XN4a6H2lTvxpfmawiyHVFdUjyA=",
       "url": "_framework\/SonicGuide.Wasm.dll"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-\/eGUqkqheKr9ZwGa39IFsQCiFV3h+BVXvQ0Lg6Lf2dU=",
+      "hash": "sha256-CGDtd3ipHHdfTKLLiPXfcFK4TtOZ3k2zaTwlJ0D35yo=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -205,13 +205,45 @@
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
-      "hash": "sha256-moFtU09aT95STr5QNvIeix9P52ehfddyPy1RDs7KJqc=",
+      "hash": "sha256-ksE0uea08qo39MW7YoWGuyobG2L9SBtbPSSk\/mfV8aQ=",
       "url": "_content\/SonicGuide.Rcl\/data\/gamedata.json"
+    },
+    {
+      "hash": "sha256-KDX2v7VR8dWSlGtmmyO03yPbin34LrFXnlgmkxO3im0=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic1_FinalZone.png"
+    },
+    {
+      "hash": "sha256-zUHAtrqhW7z1F9L2fkJuzB3nWntTkOcx5UXIqqn7rTU=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic1_GreenHillZone.png"
+    },
+    {
+      "hash": "sha256-8fxNQ7s1ZIe80g\/9jGxcw275i5DfzkFNrPmgQPIhtwU=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic1_LabyrinthZone.png"
+    },
+    {
+      "hash": "sha256-dpYQl7vyQANmVws31QhsJ\/wE05HlKMzoCI\/818ZIDIs=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic1_MarbleZone.png"
+    },
+    {
+      "hash": "sha256-vNZdTT6tINHtnGaLWKDNc1pcmqhHFvPWce\/T9MGORKc=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic1_ScrapBrainZone.png"
+    },
+    {
+      "hash": "sha256-NNUdve9Hztdsl2uJCRCcOoyMz6xVdF6a3Kxhoo\/V120=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic1_SpringYardZone.png"
+    },
+    {
+      "hash": "sha256-T9Ay+kUmfg1AtfDElm5gSZm8Gc0HDIgzmDfyf\/cuEIU=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic1_StarLightZone.png"
+    },
+    {
+      "hash": "sha256-x46XuesvB0cqLOt8lx1\/6muebGvncvfCwq3WPjJOK+8=",
+      "url": "_content\/SonicGuide.Rcl\/img\/Sonic2_AquaticRuinZone.png"
     },
     {
       "hash": "sha256-xNc8r2MMe+s7zP+L86KOzeechvqxoDh9OUYQyJCW\/Mw=",
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "SXcApHd\/"
+  "version": "xbSzQNdJ"
 };
