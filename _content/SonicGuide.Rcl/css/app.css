@@ -92,3 +92,23 @@
     padding: 5px;
     margin: 5px;
 }
+
+.game-img {
+    width: 200px;
+    height: auto;
+}
+
+.zone-img {
+    width: 200px;
+    height: auto;
+}
+
+.act-img {
+    width: 200px;
+    height: auto;
+}
+
+.boss-img {
+    width: 200px;
+    height: auto;
+}

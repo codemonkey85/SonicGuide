@@ -49,7 +49,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-fFdH2\/\/nJMRD0\/TkD1gEIpGmYHIBh2NoPoflytIXaoQ=",
+      "hash": "sha256-FWXXrUYQTKPs23EQs0yUd45UJacKX8Le43F84e2VXHI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -113,7 +113,7 @@
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-dJzZxKJfUGf1NeIivTtpwptQCAjlWUVQ0\/h7r72rKv0=",
+      "hash": "sha256-kJzVEEPMaEOaX2M7WULolJT8k4bLbJxs9ETHkrD+B8k=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
@@ -201,7 +201,7 @@
       "url": "_framework\/System.Transactions.Local.dll"
     },
     {
-      "hash": "sha256-BTT6vCAiAJaXMjmbEp5\/\/teJVpCKxfVqws2jrY0Ydug=",
+      "hash": "sha256-la5+MBDyqWzByrL5lJke65zEZk6bVv+4AQMjsJCWYYY=",
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
@@ -469,5 +469,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "67xOMmtX"
+  "version": "oeBDoTot"
 };
