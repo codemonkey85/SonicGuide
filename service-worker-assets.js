@@ -49,11 +49,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-HF0x8IKvLVpmZxqo2qnunaUpQsomGRmPxobnKBoFcCk=",
+      "hash": "sha256-yq\/e+JJFyqacN2p0SvXKnMjSDg\/BSuS0ppv56N8j+Qw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-bWJ3AnuJrBRVgUuob4imxEPK8T+d3gbosexEwGPu1iY=",
+      "hash": "sha256-Wh3190LH85SmhG\/IIaZr7Pfc72k9ESq0PtjI0TG5uTU=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -113,11 +113,11 @@
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-9MMSK6h\/6shJ3qIkY+V1srOt0XwuzJW0lA+oRtOw81k=",
+      "hash": "sha256-kwE\/eThTIVBPIUlprgLkBwZM32KG1fvSbvRGuvIWwjU=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
-      "hash": "sha256-ikGhsbvsvwP4bhZripcql2nje\/U+S5l6iIcnocNkZds=",
+      "hash": "sha256-G5uWcM\/Zm8fOFdZbonoqkgkMP5KQOaNuWHJhrOZdeu0=",
       "url": "_framework\/SonicGuide.Wasm.dll"
     },
     {
@@ -213,5 +213,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "q8dyKuu+"
+  "version": "SXcApHd\/"
 };
