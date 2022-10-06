@@ -49,11 +49,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-1\/5egNGfArVG6dUlHr7K1ScqPgo6PfrmXRPx7LmjC6U=",
+      "hash": "sha256-BIVGyMuCZrvQbNj2WnvYeuBO21HQt3tnUvuR0scNkoM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-\/7ZUGe0nf8uZaLfPsdjzMEy26AozGn27a5kgwCqtuGo=",
+      "hash": "sha256-tMdTjYYtJbVG5DJkgiyluHlRR1VNcTZ06\/wkjPekgE0=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -113,11 +113,11 @@
       "url": "_framework\/SonicGuide.Domain.dll"
     },
     {
-      "hash": "sha256-7cNAvAyxSCJNfPcf3a16y06FSng9USWLvH8kAy2WNWM=",
+      "hash": "sha256-o2bURw9nU8IH\/tmLIvQe1e7Ee41D1zqqKQIJ0EsxRws=",
       "url": "_framework\/SonicGuide.Rcl.dll"
     },
     {
-      "hash": "sha256-uWqirXPIIMozOp1\/Uwgh9N3D5b89kv3W7\/CFyLt5PnQ=",
+      "hash": "sha256-orGoFum2WYZbWlkERrjajajzhUJOP8tVBtEkkw19Bq8=",
       "url": "_framework\/SonicGuide.Wasm.dll"
     },
     {
@@ -201,7 +201,7 @@
       "url": "_framework\/System.Transactions.Local.dll"
     },
     {
-      "hash": "sha256-9xA4OsyPgV6bO\/XDeWqBgI1nEnzTjmmGxMx+zIPoKiQ=",
+      "hash": "sha256-b6svZhS3tdT7hmPM2k\/wB0Uwb+hPlNoHnpdkWXIGRQ0=",
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
@@ -469,5 +469,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "h9SzoJEN"
+  "version": "61rm+Bcu"
 };

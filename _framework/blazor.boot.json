@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Microsoft.AspNetCore.Components.dll": "sha256-\/7ZUGe0nf8uZaLfPsdjzMEy26AozGn27a5kgwCqtuGo=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-tMdTjYYtJbVG5DJkgiyluHlRR1VNcTZ06\/wkjPekgE0=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-X2jqzmGF798Z8qFoBe2e9SAfq2Ab11jGslNQdi348z0=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-AS6gdN27NaWqNunmEHps\/VGnWXlKAT+UoZEXm5tKQko=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-IZ3MwZarBMHhtfAOEETFJvc2egLAT3qO1S1xvHWsb0c=",
@@ -22,8 +22,8 @@
       "Microsoft.JSInterop.dll": "sha256-g\/tJE9U8scjk0bX20F9aHpv+\/npEY\/FEVCdPabpcAyg=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-yiWrS4VfEHP4LPvS0uhn+6mO2H5n16SgNrjd7m4VwGg=",
       "SonicGuide.Domain.dll": "sha256-v4c58ycLgAWz1bvmSwx8JEFd7itklkYl1pgOdI4uYTY=",
-      "SonicGuide.Rcl.dll": "sha256-7cNAvAyxSCJNfPcf3a16y06FSng9USWLvH8kAy2WNWM=",
-      "SonicGuide.Wasm.dll": "sha256-uWqirXPIIMozOp1\/Uwgh9N3D5b89kv3W7\/CFyLt5PnQ=",
+      "SonicGuide.Rcl.dll": "sha256-o2bURw9nU8IH\/tmLIvQe1e7Ee41D1zqqKQIJ0EsxRws=",
+      "SonicGuide.Wasm.dll": "sha256-orGoFum2WYZbWlkERrjajajzhUJOP8tVBtEkkw19Bq8=",
       "System.Collections.Concurrent.dll": "sha256-uktCzLCqKE8JxqEAukkE2sms6lKkp7Yz7ERlo3PYoy4=",
       "System.Collections.dll": "sha256-XL4sJG53DpZbVrDC4oSBZ8rxBziZAM8b2uvYHhrl2jI=",
       "System.ComponentModel.dll": "sha256-WHWeEoaIZX6lXrUxwJi+LipGS2XYqe\/arILjvw4IKKg=",
