@@ -9,7 +9,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-BtUPJ0oyVtsa9Jf8+UFUc3kXLOP4Wnkj6J2HMDIu9Xo=",
+      "hash": "sha256-K5nbyKI\/6J2Di10fMmaXmVW6Z8RbMQA8bAsGizN81vI=",
       "url": "index.html"
     },
     {
@@ -201,7 +201,7 @@
       "url": "_framework\/System.Transactions.Local.dll"
     },
     {
-      "hash": "sha256-b6svZhS3tdT7hmPM2k\/wB0Uwb+hPlNoHnpdkWXIGRQ0=",
+      "hash": "sha256-BTT6vCAiAJaXMjmbEp5\/\/teJVpCKxfVqws2jrY0Ydug=",
       "url": "_content\/SonicGuide.Rcl\/css\/app.css"
     },
     {
@@ -469,5 +469,5 @@
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "61rm+Bcu"
+  "version": "S9FcyHV2"
 };

@@ -89,17 +89,6 @@
 }
 
 .btn {
-    border: 1px solid black;
-    border-radius: 4px;
     padding: 5px;
     margin: 5px;
-    font-weight: bold;
 }
-
-.btn-secondary {
-    background-color: #c2c2c2;
-}
-
-    .btn-secondary:active {
-        background-color: #a2a2a2;
-    }
