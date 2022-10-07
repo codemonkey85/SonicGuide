@@ -1,10 +1,13 @@
-﻿export function speakText(text) {
-    if ('speechSynthesis' in window) {
-    } else {
-        alert("Sorry, your browser doesn't support text to speech!");
+﻿const synth = window.speechSynthesis;
+
+export function speakText(text) {
+    if (synth.speaking) {
+        console.error("speechSynthesis.speaking");
         return;
     }
-    var msg = new SpeechSynthesisUtterance();
-    msg.text = text;
-    window.speechSynthesis.speak(msg);
+
+    if (text !== "") {
+        const utterThis = new SpeechSynthesisUtterance(text);
+        synth.speak(utterThis);
+    }
 }
