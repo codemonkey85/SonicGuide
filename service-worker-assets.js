@@ -465,9 +465,9 @@
       "url": "_content\/SonicGuide.Rcl\/img\/SonicM_title.png"
     },
     {
-      "hash": "sha256-xNc8r2MMe+s7zP+L86KOzeechvqxoDh9OUYQyJCW\/Mw=",
+      "hash": "sha256-w4e0XqwyStcg5hRBY2ybuG1lqgWvgjrzTWZDo+Ff4Ug=",
       "url": "_content\/SonicGuide.Rcl\/js\/sonicguide.js"
     }
   ],
-  "version": "oeBDoTot"
+  "version": "1v3mGeEE"
 };
